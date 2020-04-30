@@ -1,6 +1,6 @@
 # flutterapp
 
-[Back-End](https://github.com/Diatraore/Back_end_Challenge)
+[The back-end of the project is here](https://github.com/Diatraore/Back_end_Challenge)
 
 Chercher tout ici avec ou sans connexion
 
